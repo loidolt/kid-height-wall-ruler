@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9in"
+   height="72in"
+   viewBox="0 0 228.6 1828.8001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="KidWallRuler5.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="1990.0853"
+     inkscape:cy="3447.8581"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="725"
+     inkscape:window-y="760"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1531.8)">
+    <g
+       id="text817-3-7-8"
+       style="font-style:normal;font-weight:normal;font-size:104.52619171px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.61315489"
+       aria-label="5"
+       transform="matrix(1.2344033,0,0,1.2344033,14.460112,263.90144)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path840"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BodoniXT;-inkscape-font-specification:BodoniXT;stroke-width:2.61315489"
+         d="m 135.22017,-1083.4194 q 0,-9.1983 -6.3761,-14.6337 -6.37609,-5.5398 -16.30608,-5.5398 -1.67242,0 -3.24032,0.1045 -1.56789,0.1045 -3.03125,0.3136 -3.13579,0.3135 -5.74895,1.2543 l 0.83621,-19.3374 h 14.00651 q 8.04852,0 11.70694,-2.5086 3.55389,-2.5086 3.55389,-10.2436 h -2.29958 q 0,1.4634 -0.94073,2.1951 -1.14979,0.7317 -2.61316,0.7317 H 98.845056 l -1.463367,32.194 q 0,0.9408 0.418105,0.9408 0.627157,0 1.776945,-0.3136 2.090521,-1.2543 4.181051,-1.777 1.14978,-0.209 2.29957,-0.3135 1.25432,-0.2091 2.61316,-0.2091 7.21231,0 10.7662,4.4946 3.65841,4.5992 3.65841,12.8568 0,9.3028 -3.34484,14.2155 -3.24031,4.8082 -10.55714,4.8082 -3.55389,0 -6.3761,-1.1498 -2.71768,-0.9407 -2.71768,-2.8222 0,-0.9407 2.4041,-2.4041 2.61316,-1.3588 2.61316,-3.972 -0.10453,-6.3761 -5.330838,-6.3761 h -0.418105 q -5.644415,0 -5.957993,6.4807 -0.209053,3.0312 1.045262,5.3308 1.254314,2.195 3.55389,3.8675 4.494624,3.2403 12.229564,3.2403 11.49788,0 18.29208,-5.6444 6.68968,-5.6445 6.68968,-15.7835 z" />
+    </g>
+  </g>
+</svg>
